@@ -18,8 +18,9 @@ The exploration of the Netflix data involved a multi-step process that leveraged
 - Visualization: Created charts and graphs (e.g., bar charts, pie chart) using matplotlib and seaborn to visually represent the findings from the above analyses. This enhances the clarity and impact of the results.
 
 ## Key Findings:
-- Content Type: Netflix boasts a larger collection of movies compared to TV shows.
-- Production Origin: The United States leads the pack in content production, followed closely by India.
-- Target Audience: A significant portion of Netflix content caters to mature audiences (MA).
-- Production Year: 2018 stands out as the year with the highest volume of content released on Netflix.
-- Genre Popularity: International Movies and Dramas reign supreme as the most popular genres among Netflix viewers.
+- Netflix has more movies than TV shows
+- Most number of movies and TV shows are produced by United States ,followed by India holding second position
+- A large proportion of content on Netflix is for MA (Matured Auudience)
+- 2018 is the year during which Netflix produced a large count of content as compared to the other years.
+- Till 2018 the Content produced was in increasing order but after COVID Year (2020), we can observe the declination.
+- International Movies and Drama are the most popuplar Genres on Netflix
